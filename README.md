@@ -18,3 +18,6 @@ If you download the dataset, you can see that several features will be used to c
 
 # Motive of project
   To analyze the data of the wine samples by acquiring,cleaning and visualize the data to find insights that can help detect whetther it is good or bad. the wine is differentiated according to its smell, flavor, and color, but we are not a wine expert to say that wine is good or bad.  Here’s the use of Machine Learning comes, yes  we are using machine learning to check wine quality. ML models, that are used for modeling is sample model ,random model and random forest.
+
+# Author
+ developed by me(kilari Jaswanth) with sample references around internet
